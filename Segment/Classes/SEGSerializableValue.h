@@ -6,8 +6,6 @@
 //  Copyright © 2016 Segment. All rights reserved.
 //
 
-@import Foundation;
-
 /*
  Acceptable dictionary values are
  NSString (String);
