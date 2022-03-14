@@ -7,9 +7,9 @@
 //
 
 #if TARGET_OS_IPHONE
-@import UIKit;
+//@import UIKit;
 #elif TARGET_OS_OSX
-@import Cocoa;
+//@import Cocoa;
 #endif
 
 NS_SWIFT_NAME(ApplicationProtocol)
