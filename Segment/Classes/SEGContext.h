@@ -6,7 +6,6 @@
 //  Copyright © 2016 Segment. All rights reserved.
 //
 
-@import Foundation;
 #import "SEGIntegration.h"
 
 typedef NS_ENUM(NSInteger, SEGEventType) {
