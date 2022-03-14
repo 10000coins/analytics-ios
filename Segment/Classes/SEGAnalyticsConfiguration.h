@@ -6,8 +6,6 @@
 //  Copyright © 2016 Segment. All rights reserved.
 //
 
-@import Foundation;
-
 #if TARGET_OS_IPHONE
 @import UIKit;
 #elif TARGET_OS_OSX
