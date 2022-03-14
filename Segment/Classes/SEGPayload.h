@@ -1,4 +1,3 @@
-@import Foundation;
 #import "SEGSerializableValue.h"
 
 NS_ASSUME_NONNULL_BEGIN
