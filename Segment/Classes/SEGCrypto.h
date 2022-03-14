@@ -5,8 +5,6 @@
 //  Copyright © 2016 Segment. All rights reserved.
 //
 
-@import Foundation;
-
 @protocol SEGCrypto <NSObject>
 
 - (NSData *_Nullable)encrypt:(NSData *_Nonnull)data;
